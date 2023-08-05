@@ -1,1 +1,1 @@
-My first readme
+That's enough coding for today :)
